@@ -134,7 +134,6 @@ Built by **Mustafa Ali** — Melbourne, Australia.
 If you represent a heritage organisation, research institution, or media outlet and want to get in touch:
 
 📧 mustafa74589@gmail.com
-🌐 [your website here]
 🐦 Twitter(X) = @NeRFpro999
 
 ---
