@@ -129,7 +129,7 @@ Free to use, modify, and build on. We only ask that you share what you build.
 
 ## Contact
 
-Built by **Adam Sterling** — Melbourne, Australia.
+Built by **Mustafa Ali** — Melbourne, Australia.
 
 If you represent a heritage organisation, research institution, or media outlet and want to get in touch:
 
