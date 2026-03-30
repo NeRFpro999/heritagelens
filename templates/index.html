@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HeritageLens - Preserve Cultural Heritage</title>
+</head>
+<body>
+    <h1>HeritageLens</h1>
+    <p>Upload monument details and images to digitally preserve cultural heritage.</p>
+    <form action="/" method="post" enctype="multipart/form-data">
+        <label for="name">Monument Name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="country">Country:</label><br>
+        <input type="text" id="country" name="country" required><br><br>
+
+        <label for="year_built">Year Built:</label><br>
+        <input type="number" id="year_built" name="year_built" required><br><br>
+
+        <label for="description">Description (optional):</label><br>
+        <textarea id="description" name="description"></textarea><br><br>
+
+        <label for="images">Upload Images (minimum 3):</label><br>
+        <input type="file" id="images" name="images" multiple accept="image/*" required><br><br>
+
+        <input type="submit" value="Process Monument">
+    </form>
+</body>
+</html>

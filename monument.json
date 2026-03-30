@@ -1,0 +1,7 @@
+{
+    "name": "Eiffel Tower",
+    "country": "France",
+    "year_built": 1889,
+    "image_path": "images/eiffel_tower.jpg",
+    "description": "Iconic iron lattice tower in Paris"
+}

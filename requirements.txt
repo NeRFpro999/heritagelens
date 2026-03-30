@@ -1,0 +1,4 @@
+Flask==2.3.3
+opencv-python==4.8.1.78
+numpy
+# open3d  # Install separately if needed for point cloud generation
